@@ -65,7 +65,7 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 
 **OUTPUT:**
 
-![IMG-20251108-WA0019 1](https://github.com/user-attachments/assets/04914426-ef42-469a-a3b8-0a703df3f7f1)
+![IMG-20251108-WA0020 1](https://github.com/user-attachments/assets/94668061-c7f5-482f-a705-c9e732bf24fe)
 
 **Result :**
 
